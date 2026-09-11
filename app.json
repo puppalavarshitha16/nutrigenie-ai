@@ -1,0 +1,15 @@
+{
+  "name": "NutriGenie AI",
+  "description": "AI-powered personalized nutrition assistant using IBM Granite, LangFlow and RAG.",
+  "technology": [
+    "IBM watsonx.ai",
+    "IBM Granite",
+    "LangFlow",
+    "RAG",
+    "Streamlit",
+    "Python"
+  ],
+  "model": "ibm/granite-4-h-small",
+  "knowledge_base": "NutriGenie",
+  "application": "Personalized Nutrition Assistant"
+}
